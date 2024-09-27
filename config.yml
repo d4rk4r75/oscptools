@@ -1,0 +1,9 @@
+# Settings in this file will be loaded into the constants in cmd/variables.go
+windows_workspace_path: "C:\\Workspace"
+linux_workspace_path: "/tmp/workspace"
+tools_folder_linux: "/Tools/linux"
+tools_folder_windows: "/Tools/windows"
+exploits_folder_linux: "/Exploits/linux"
+exploits_folder_windows: "/Exploits/windows"
+linpeas_linux: "linpeas.sh"
+linpeas_windows: "/PEASS-ng/winPEASx64.exe"
